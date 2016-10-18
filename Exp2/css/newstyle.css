@@ -1,0 +1,19 @@
+body {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  overflow-x: hidden;
+}
+p {
+  font-family: "Homer Simpson", cursive;
+}
+h1 { 
+font-size : 36pt; 
+font-family : verdana,arial; 
+text-decoration : underline; 
+text-align : center; 
+background-color : Teal; 
+} 
+body { 
+background-color : #006600; 
+font-family : arial; 
+color : White; 
+}
